@@ -1,0 +1,12 @@
+# Predicting stage of erythropoiesis
+
+This repository holds Jupyter/Colab notebooks for predicting the stage of erythropoietic development based on single-cell transcriptomic data.  These notebooks support the manuscript:
+
+**Staging normal and ineffective erythroid cells using scRNA-seq and machine learning**
+
+Arryn OwensÂ¹, Layasri RanjithÂ², Christopher LaustedÂ¹, Raymond T. DotyÂ³, Janis L. AbkowitzÂ³â´
+
+1. Institute for Systems Biology, Seattle, WA.
+2. Case Western Reserve University, Cleveland OH.
+3. Department of Medicine, Division of Hematology and Oncology, University of Washington School of Medicine, Seattle WA.
+4. Fred Hutchinson Cancer Center, Seattle WA. 
