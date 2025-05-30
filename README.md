@@ -4,7 +4,7 @@ This repository holds Jupyter/Colab notebooks for predicting the stage of erythr
 
 **Staging normal and ineffective erythroid cells using scRNA-seq and machine learning**
 
-Arryn OwensÂ¹, Layasri RanjithÂ², Christopher LaustedÂ¹, Raymond T. DotyÂ³, Janis L. AbkowitzÂ³â´
+Arryn Owens¹, Layasri Ranjith², Christopher Lausted¹, Raymond T. Doty³, Janis L. Abkowitz³⁴
 
 1. Institute for Systems Biology, Seattle, WA.
 2. Case Western Reserve University, Cleveland OH.
